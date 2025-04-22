@@ -77,14 +77,8 @@ int main() {
     return 0;
 }
 ```
-
-
-
-
 ## Output:
-![image](https://github.com/user-attachments/assets/c25910e0-e58c-45c6-83db-6db8c53761d1)
-
-
+![image](https://github.com/user-attachments/assets/ec2d4229-1201-4a3b-8b1c-f796ccb744c1)
 
 ## Result:
   The program is executed successfully
